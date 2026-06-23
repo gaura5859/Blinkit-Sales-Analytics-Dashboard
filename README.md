@@ -59,12 +59,6 @@ The dashboard provides business insights through interactive visualizations, KPI
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](Images/Dashboard_Screenshot.png)
-
----
-
 ## Author
 
 Gaurav Mahajan
